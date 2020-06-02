@@ -1,6 +1,6 @@
 # listviewdemo
 
-Flutter Tutorial: Create First Flutter Application: Flutter Dart Tutorial
+This tutorial takes an in-depth look at working with lists in Flutter. You will learn how to use the ListView object to create and customize ... I also provided an itemBuilder function that dynamically builds each ListTile as it comes into view. ... All you have to do is wrap your ListTile with a Card 
 
 
 # Youtube Url
